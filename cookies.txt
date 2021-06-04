@@ -1,9 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-.facebook.com	TRUE	/	FALSE	1999999999	fr	0E6qZx5lKlrB1Jf6h..BgtA0e...1.0.BgtA0e.
-.cloudflare.com	TRUE	/	FALSE	1999999999	__cfduid	d333d9112c8106b58d9b4af854fad7b181622412580
-ajax.cloudflare.com	TRUE	/	FALSE	1999999999	SameSite	Lax
-cbtb.clickbank.net	TRUE	/	FALSE	1999999999	AWSALB	DtWqUyXx5S+8IzRr8tKt/cIe6Iz3f3sL42a98Gj26t5jDQBA9A40GLswyECsR3cj/+WswwCAcS4nK9Y9vpccdgnZfU26yd/0BOS7ofnyW/u3cLpqqLWcwEjF8diE
-cbtb.clickbank.net	TRUE	/	FALSE	1999999999	AWSALBCORS	DtWqUyXx5S+8IzRr8tKt/cIe6Iz3f3sL42a98Gj26t5jDQBA9A40GLswyECsR3cj/+WswwCAcS4nK9Y9vpccdgnZfU26yd/0BOS7ofnyW/u3cLpqqLWcwEjF8diE
-cbtb.clickbank.net	TRUE	/	FALSE	1999999999	SameSite	None
-
